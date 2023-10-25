@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8593BC8F2AE93EF400874A49 /* .gitignore.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8593BC8E2AE93EF400874A49 /* .gitignore.xib */; };
 		85CD23122ADE897700ED7A6A /* MyFamilyBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CD23112ADE897700ED7A6A /* MyFamilyBookApp.swift */; };
 		85CD23142ADE897700ED7A6A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CD23132ADE897700ED7A6A /* ContentView.swift */; };
 		85CD23162ADE897800ED7A6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85CD23152ADE897800ED7A6A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8593BC8E2AE93EF400874A49 /* .gitignore.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = .gitignore.xib; sourceTree = "<group>"; };
 		85CD230E2ADE897700ED7A6A /* MyFamilyBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFamilyBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85CD23112ADE897700ED7A6A /* MyFamilyBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFamilyBookApp.swift; sourceTree = "<group>"; };
 		85CD23132ADE897700ED7A6A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		85CD23052ADE897700ED7A6A = {
 			isa = PBXGroup;
 			children = (
+				8593BC8E2AE93EF400874A49 /* .gitignore.xib */,
 				85CD23102ADE897700ED7A6A /* MyFamilyBook */,
 				85CD230F2ADE897700ED7A6A /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8593BC8F2AE93EF400874A49 /* .gitignore.xib in Resources */,
 				85CD23192ADE897800ED7A6A /* Preview Assets.xcassets in Resources */,
 				85CD23162ADE897800ED7A6A /* Assets.xcassets in Resources */,
 			);
